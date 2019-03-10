@@ -14,3 +14,7 @@
 
 - [x] **QQ:** 256447418 
 
+
+Sample frontend of yiimp software mining pool
+![](https://www.sohowa.com/veil-stratum-yiimp/veil-yiimp-stratum-images.png)
+
