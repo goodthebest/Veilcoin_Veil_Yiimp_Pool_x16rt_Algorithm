@@ -15,6 +15,6 @@
 - [x] **QQ:** 256447418 
 
 
-Sample frontend of yiimp software mining pool
-![yiimp installation, front page](https://www.sohowa.com/images/samplepool.jpg)
+Frontend of Veil x16rt algorithm mining pool
+![yiimp veil_installation](https://www.sohowa.com/veil-stratum-yiimp/veil-yiimp-stratum-images.png)
 
