@@ -16,5 +16,5 @@
 
 
 Sample frontend of yiimp software mining pool
-![](https://www.sohowa.com/veil-stratum-yiimp/veil-yiimp-stratum-images.png)
+![yiimp installation, front page](https://www.sohowa.com/images/samplepool.jpg)
 
