@@ -1,7 +1,6 @@
 # Build Veilcoin Mining Pool, Setup X16rt Algorithm Mining Pool to Mine VEIL, Yiimp implementation to add algo x16rt
 
-## Contact Now & Let Us Setup a Mining Pool For Any Algorithm & Cryptocoin Within Hours 
-#### _Whether you want to mine a single coin or several cyrptocurrencies solo, private with your friends & family, even public or Nicehash, cloud mining etc. We have solution for all._
+## Contact Now to setup your veil coin or add veil coin algo x16rt into your existing yiimp mining pool
 
 - [x]  **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
 
