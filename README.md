@@ -16,5 +16,5 @@
 
 
 Frontend of Veil x16rt algorithm mining pool
-![yiimp veil_installation](https://www.sohowa.com/veil-stratum-yiimp/veil-yiimp-stratum-images.png)
+![yiimp veil_x16rt installation](https://www.sohowa.com/veil-stratum-yiimp/veil-yiimp-stratum-images.png)
 
