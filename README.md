@@ -15,6 +15,8 @@
 - [x] **QQ:** 256447418 
 
 
+PS. Yiimp is an open source software, however this is a customized enhanacement for VEIL's algo x16rt. There might be other open source solutions you are welcome to use them.
+
 Frontend of Veil x16rt algorithm mining pool
 ![yiimp veil_x16rt installation](https://www.sohowa.com/veil-stratum-yiimp/veil-yiimp-stratum-images.png)
 
